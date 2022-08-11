@@ -1,4 +1,8 @@
-## Hi there 👋
+Welcome to the GitHub page of Lyhty, which is Finnish for Lantern.
+
+Where Laravel **illuminates** your whole project, this little lantern wants to bring some extra light to help you with your Laravel project.
+
+These packages are maintained by one person currently. These packages thus are maintained and developed somewhat sporadically. 
 
 <!--
 
